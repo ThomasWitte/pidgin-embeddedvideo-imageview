@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/53/trunk/src/websites
+END
+vimeo.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/52/trunk/src/websites/vimeo.c
+END
+google-video.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/52/trunk/src/websites/google-video.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/53/trunk/src/websites/Makefile.in
+END
+yahoo-video.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/52/trunk/src/websites/yahoo-video.c
+END
+trilulilu-audio.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/52/trunk/src/websites/trilulilu-audio.c
+END
+trilulilu-image.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/52/trunk/src/websites/trilulilu-image.c
+END
+collegehumor.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/52/trunk/src/websites/collegehumor.c
+END
+myspace-video.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/52/trunk/src/websites/myspace-video.c
+END
+metacafe.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/52/trunk/src/websites/metacafe.c
+END
+dailymotion.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/52/trunk/src/websites/dailymotion.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/53/trunk/src/websites/Makefile.am
+END
+trilulilu-video.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/52/trunk/src/websites/trilulilu-video.c
+END
+youtube.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/52/trunk/src/websites/youtube.c
+END
+xfire.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/53/trunk/src/websites/xfire.c
+END

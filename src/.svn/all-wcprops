@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/svn/!svn/ver/53/trunk/src
+END
+embeddedvideo.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/53/trunk/src/embeddedvideo.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/51/trunk/src/Makefile.in
+END
+videoframes.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/49/trunk/src/videoframes.c
+END
+websites.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/53/trunk/src/websites.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/51/trunk/src/Makefile.am
+END
+videoframes.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/27/trunk/src/videoframes.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/4/trunk/src/config.h
+END
+websites.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/14/trunk/src/websites.h
+END
